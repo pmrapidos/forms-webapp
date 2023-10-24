@@ -32,7 +32,10 @@
         "dbaeumer.vscode-eslint",
         "vscjava.vscode-java-pack",
         "pivotal.vscode-boot-dev-pack",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "vscjava.vscode-gradle",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-maven"
       ]
     }
   },
